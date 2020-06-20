@@ -1,5 +1,5 @@
 # image-processing-gui
-GUI model using Python
+Image Processing GUI model using Python
 
 
 Requirements: 

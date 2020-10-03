@@ -1,5 +1,6 @@
 # image-processing-gui
-Image Processing GUI model using Python
+Image Processing GUI model using Python.
+
 [**Click Here**](https://github.com/piyushmathur17/image-processing-gui/blob/master/description.pdf) to know more about the project
 
 Requirements: 
